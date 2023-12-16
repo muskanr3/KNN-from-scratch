@@ -1,0 +1,1 @@
+Implemented the KNN algorithm from scratch using Python classes.
